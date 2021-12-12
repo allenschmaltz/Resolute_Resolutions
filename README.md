@@ -6,3 +6,7 @@ Fine-grained commentary for a coarse-grained world
 
 1. [NLP/AI Conference "Peer" Review: A Tragedy of the (Knowledge) Commons?](volume1/volume1.pdf) July 18, 2020
 2. [Part 1 of N: An Informal \[in\]Formality: AI?](volume2/volume2.pdf) January 9, 2021
+3. [Practical, Real-World Neural Network Interpretability and Deployment: Decomposable Model Approximations for Data-Mediated AI (DMA^2)](volume3/volume3.pdf) December 11, 2021
+  * [Volume 3 summary](volume3/summary/data_mediated_ai.pdf)
+  * ![DMA^2](volume3/summary/data_mediated_ai.png)
+    *See Volume 3 for additional details.*
