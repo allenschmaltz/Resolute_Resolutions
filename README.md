@@ -10,3 +10,4 @@ Fine-grained commentary for a coarse-grained world
     * [Volume 3 summary](volume3/summary/data_mediated_ai.pdf)
     * ![DMA^2](volume3/summary/data_mediated_ai.png)
       *See Volume 3 for additional details.*
+4. [AI:=Introspection+Updatability+Uncertainty](volume4/volume4.pdf) July 11, 2022
