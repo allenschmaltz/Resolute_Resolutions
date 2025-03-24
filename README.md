@@ -11,3 +11,4 @@ Fine-grained commentary for a coarse-grained world
     * ![DMA^2](volume3/summary/data_mediated_ai.png)
       *See Volume 3 for additional details.*
 4. [AI:=Introspection+Updatability+Uncertainty](volume4/volume4.pdf) July 11, 2022
+5. [The Determinants of Controllable AGI](volume5/volume5.pdf) March 23, 2025
